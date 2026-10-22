@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReaLingo</string>
+    <string name="notif_channel">同声传译</string>
+    <string name="notif_channel_desc">翻译进行中的常驻通知</string>
+</resources>
